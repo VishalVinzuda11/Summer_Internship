@@ -1,0 +1,23 @@
+.username{
+    height: 20px;
+    margin: 5px;
+    border: 2px solid black;
+    border-radius: 0.5rem;
+}
+.password{
+    height: 20px;
+    margin: 5px;
+    border: 2px solid black;
+    border-radius: 0.5rem;
+}
+.btn{
+    height: 30px;
+    width: 120px;
+    margin: 10px 0px 0px 30px;
+    padding: 5px 5px 5px 5px;
+    border-radius: 1rem;
+}
+.btn:hover{
+    background-color: rgb(30, 28, 28);
+    color: white;
+}
